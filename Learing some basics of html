@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontend development</title>
+</head>
+<body>
+    <h1>My first web page</h1>
+
+    <hr>
+    <h2>I am also planing vacatoion </h2>
+    <p>I have been working hard and <em> need a gateway</em></p>
+
+    <p>i live in goa <strong> I want to visit beach</strong></p>
+    <h3>My daily schedule</h3>
+    <p>let me tell you how i ....
+        <br>&nbsp;&nbsp;&nbsp;..i learn more about webdev.
+        <br>&nbsp;&nbsp;...i plan out my shedule
+        <br>&nbsp;..i have been workin in the <abbr title ="state bank of india">SBI</abbr>...
+    </p>
+    <hr>
+    <address>
+        <ol>
+        <li>&nbsp;&nbsp;&nbsp;..i learn more about </li>
+        <li>&nbsp;&nbsp;...i plan out my shedule</li>
+        
+        <li>&nbsp;..i have been workin in the <abbr title ="state bank of india">SBI</abbr>...</li>\
+    </ol>
+        <!------->
+        <h4>About My address</h4>
+
+        village kushmaini <br>
+        distt sant kabir nagar <br>
+    </address>
+    <hr>
+
+   
+    &lt;&lt;&lt;Anand chaudhary&gt;&gt;&gt;
+
+    
+</body>
+</html>
